@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🐛 Criando bugs desde antes de saber o que era um bug.<br>📦 Fazendo deploy de caos desde 2021.<br>👨‍💻 Git push --force e fé em Deus.<br>💣 Programando com responsabilidade… mais ou menos.<br><br>🧙 Bruno Muryllo — Desenvolvedor backend</p>
+<p align="left">🐛 Criando bugs desde antes de saber o que era um bug.<br>💣 Programando com responsabilidade… mais ou menos.<br><br>🧙 Bruno Muryllo — Desenvolvedor backend</p>
 
 ###
 
