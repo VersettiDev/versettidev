@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🐛 Criando bugs desde antes de saber o que era um bug.<br>💣 Programando com responsabilidade… mais ou menos.<br><br>🧙 Bruno Muryllo — Desenvolvedor backend</p>
+<p align="left">🧙 Bruno Muryllo — Desenvolvedor backend</p>
 
 ###
 
